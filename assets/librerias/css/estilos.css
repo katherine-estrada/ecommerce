@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+}
+
+/* header */
+
+
+.entry-header a{
+    color: #b3b3b3 !important;
+}
+
+.flex-column a:hover{
+    color: #fff !important; 
+}
+
+.entry-header .bi-suit-heart-fill{
+    padding: 2%;
+    background: linear-gradient(to bottom right, #4c68d7, #8a3ab9,#a7a7a7);
+}
+
+.idioma button:hover{
+    padding: 1%;
+}
+
+.lateral{
+    background-color: #242424;
+    padding: 2%;
+}
+.box{
+    height: 60vh;
+}
+
+.sector{
+    padding: 0%;
+}
+.panel-info a{
+    color: #b3b3b3!important;
+    font-size: 14px;
+}
+.sector .circle{
+    width: 40px;
+    height: 40px;
+    background-color: #1a1a1a; 
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec-loop{
+    background-color: #2a2a2a;
+}
+
+.login a{
+    color: #b3b3b3;
+}
+
+.login a:hover{
+    color: #fff;
+}
+
+.login button{
+    background-color: #fff;
+}
+
+.login button:hover{
+    padding:3%;
+    background-color: #fff;
+    color: #1a1a1a;
+}
+
+/* Interior  */
+
+.word p{
+    color: #b3b3b3 !important;
+}
+
+.word{
+    color: #b3b3b3;
+}
+
+
+.content-play{
+background-color: #2a2a2a;
+}
+
+.play{
+    text-decoration: none;
+    size: 2%;
+}
+
+.play:visited{
+    color: rgb(50, 233, 50);
+}
+
+.heart:visited{
+    color: #b3b3b3;
+}
+
+.three:visited{
+    color: #b3b3b3;
+}
+
+/* footer */
+.box-footer h5{
+    color: #fff;
+    font-size: 15px;
+}
+.box-footer ul{
+    list-style: none;
+}
+
+.box-footer .menu-footer-1-container .menu{
+    margin: 2%;
+    padding: 0%;
+}
+
+.menu-footer-1-container .menu li a{
+    color: #b3b3b3;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.box-footer .menu-footer-2-container .menu{
+    margin: 0%;
+    padding: 0%;
+}
+
+.menu-footer-2-container .menu li a{
+    color: #b3b3b3;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.box-footer .menu-footer-3-container .menu{
+    margin: 0%;
+    padding: 0%;
+}
+
+.menu-footer-3-container .menu li a{
+    color: #b3b3b3;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.icon{
+    margin: 0%;
+    padding: 0%;
+}
+
+.icon a{
+    text-align:right !important;
+}
+
+.icon [class*="bi bi-"] {
+    
+    border-radius: 30px;
+    color: #fff;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    margin: auto 3px;
+    width: 30px;
+    text-align: center;
+} 
+
+.icon [class*="bi bi-facebook"]:hover {
+    background-color: #3b5998;
+}
+
+.icon [class*="bi bi-instagram "]:hover {
+    background: linear-gradient(to bottom right, #4c68d7, #8a3ab9,#cd486b,#fbad50);
+
+}
+
+.icon [class*="bi bi-twitter"]:hover {
+    background-color: #4099FF;
+    
+}

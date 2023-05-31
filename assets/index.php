@@ -1,0 +1,1 @@
+<?php /*hola, no robes mi codigo*/?>
